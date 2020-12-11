@@ -7,6 +7,6 @@ Or another simple way opens [darknetGoogleColab.ipynb](https://colab.research.go
 
 After you understand how does darknet work. You could train model on your own data and reserve it for your private task.
 
-# Link to Khanh Blog
+# Link to quangjimmynguyen
 
-Before practice, i recommend you understand YOLO algorithm at [Bài 25 - YOLO You Only Look Once](https://phamdinhkhanh.github.io/2020/03/09/DarknetAlgorithm.html)
+Before practice, i recommend you understand YOLO algorithm at [Bài 25 - YOLO You Only Look Once]
